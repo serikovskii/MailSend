@@ -4,3 +4,9 @@ c:\users\мукушева.corp\source\repos\DCA.ConsoleApp\DCA.Models\bin\Debug\
 c:\users\мукушева.corp\source\repos\DCA.ConsoleApp\DCA.Models\bin\Debug\DCA.Models.pdb
 c:\users\мукушева.corp\source\repos\DCA.ConsoleApp\DCA.Models\obj\Debug\DCA.Models.dll
 c:\users\мукушева.corp\source\repos\DCA.ConsoleApp\DCA.Models\obj\Debug\DCA.Models.pdb
+C:\Users\МукушевА.CORP\Documents\GitHub\MailSend\DCA.ConsoleApp\DCA.Models\bin\Debug\DCA.Models.dll
+C:\Users\МукушевА.CORP\Documents\GitHub\MailSend\DCA.ConsoleApp\DCA.Models\bin\Debug\DCA.Models.pdb
+C:\Users\МукушевА.CORP\Documents\GitHub\MailSend\DCA.ConsoleApp\DCA.Models\obj\Debug\DCA.Models.csprojAssemblyReference.cache
+C:\Users\МукушевА.CORP\Documents\GitHub\MailSend\DCA.ConsoleApp\DCA.Models\obj\Debug\DCA.Models.csproj.CoreCompileInputs.cache
+C:\Users\МукушевА.CORP\Documents\GitHub\MailSend\DCA.ConsoleApp\DCA.Models\obj\Debug\DCA.Models.dll
+C:\Users\МукушевА.CORP\Documents\GitHub\MailSend\DCA.ConsoleApp\DCA.Models\obj\Debug\DCA.Models.pdb

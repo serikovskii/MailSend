@@ -50,7 +50,7 @@ namespace DCA.DataAccess
 
         public void Update(Mail item)
         {
-            var sql = $"update Mails set @Theme = {item.Theme}, @Text = {item.Text}";
+            var sql = $"update Mails set @Theme = {item.Theme}, @Text = {item.Text} where @Id = {item.Id}";
             _connection.Execute(sql, item);
         }
     }

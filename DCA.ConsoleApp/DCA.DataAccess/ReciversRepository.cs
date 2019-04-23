@@ -47,7 +47,7 @@ namespace DCA.DataAccess
 
         public void Update(Reciver item)
         {
-            var sql = $"update Recivers set @FullName = {item.FullName}, @Adress = {item.Adress}";
+            var sql = $"update Recivers set @FullName = {item.FullName}, @Adress = {item.Adress} where @Id = {item.Id}";
             _connection.Execute(sql, item);
         }
     }

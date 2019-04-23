@@ -7,3 +7,12 @@ c:\users\мукушева.corp\source\repos\DCA.ConsoleApp\DCA.DataAccess.Abstra
 c:\users\мукушева.corp\source\repos\DCA.ConsoleApp\DCA.DataAccess.Abstract\obj\Debug\DCA.DataAccess.Abstract.csproj.CopyComplete
 c:\users\мукушева.corp\source\repos\DCA.ConsoleApp\DCA.DataAccess.Abstract\obj\Debug\DCA.DataAccess.Abstract.dll
 c:\users\мукушева.corp\source\repos\DCA.ConsoleApp\DCA.DataAccess.Abstract\obj\Debug\DCA.DataAccess.Abstract.pdb
+C:\Users\МукушевА.CORP\Documents\GitHub\MailSend\DCA.ConsoleApp\DCA.DataAccess.Abstract\bin\Debug\DCA.DataAccess.Abstract.dll
+C:\Users\МукушевА.CORP\Documents\GitHub\MailSend\DCA.ConsoleApp\DCA.DataAccess.Abstract\bin\Debug\DCA.DataAccess.Abstract.pdb
+C:\Users\МукушевА.CORP\Documents\GitHub\MailSend\DCA.ConsoleApp\DCA.DataAccess.Abstract\bin\Debug\DCA.Models.dll
+C:\Users\МукушевА.CORP\Documents\GitHub\MailSend\DCA.ConsoleApp\DCA.DataAccess.Abstract\bin\Debug\DCA.Models.pdb
+C:\Users\МукушевА.CORP\Documents\GitHub\MailSend\DCA.ConsoleApp\DCA.DataAccess.Abstract\obj\Debug\DCA.DataAccess.Abstract.csprojAssemblyReference.cache
+C:\Users\МукушевА.CORP\Documents\GitHub\MailSend\DCA.ConsoleApp\DCA.DataAccess.Abstract\obj\Debug\DCA.DataAccess.Abstract.csproj.CoreCompileInputs.cache
+C:\Users\МукушевА.CORP\Documents\GitHub\MailSend\DCA.ConsoleApp\DCA.DataAccess.Abstract\obj\Debug\DCA.DataAccess.Abstract.csproj.CopyComplete
+C:\Users\МукушевА.CORP\Documents\GitHub\MailSend\DCA.ConsoleApp\DCA.DataAccess.Abstract\obj\Debug\DCA.DataAccess.Abstract.dll
+C:\Users\МукушевА.CORP\Documents\GitHub\MailSend\DCA.ConsoleApp\DCA.DataAccess.Abstract\obj\Debug\DCA.DataAccess.Abstract.pdb

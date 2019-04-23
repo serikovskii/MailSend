@@ -18,24 +18,41 @@ namespace DCA.ConsoleApp
             {
                 //var reciver = new Reciver
                 //{
-                //    FullName = "Vasya",
+                //    FullName = "Askar",
                 //    Adress = "Astana"
                 //};
 
                 //reciversRepository.Add(reciver);
                 //var resultReciver = reciversRepository.GetAll();
+                
+                var i = 0;
+                for (; i < reciversRepository.GetAll().ToList().Count; i++)
+                {
+                    Console.WriteLine($"{reciversRepository.GetAll().ToList()[i].FullName} - {i}"); 
+                }
+                Console.WriteLine("Выберете пользователя адресат:");
+                i = Int32.Parse(Console.ReadLine());
+                Console.WriteLine("Введите тему письма");
+                var theme = Console.ReadLine();
 
-                //var mail = new Mail
-                //{
-                //    ReciverId = resultReciver.ToList()[0].Id,
-                //    Theme = "Che tam?",
-                //    Text = "Kogda domashki zakroesh?"
-                //};
-                //mailsRepository.Add(mail);
-                //var resultMail = mailsRepository.GetAll();
+                Console.WriteLine("Введите текст письма");
+                var text = Console.ReadLine();
 
-                reciversRepository.Delete(reciversRepository.GetAll().ToList()[0]);
+                var mail = new Mail
+                {
+                    ReciverId = reciversRepository.GetAll().ToList()[i].Id,
+                    Theme = theme,
+                    Text = text
+                };
+                mailsRepository.Add(mail);
+                var resultMail = mailsRepository.GetAll();
+                
+                reciversRepository.Delete(reciversRepository.GetAll().ToList()[i]);
+
+
             }
+
+            Console.ReadLine();
         }
     }
 }
