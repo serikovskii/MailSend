@@ -1,0 +1,15 @@
+c:\users\мукушева.corp\source\repos\DCA.ConsoleApp\DCA.DataAccess\obj\Debug\DCA.DataAccess.csprojAssemblyReference.cache
+c:\users\мукушева.corp\source\repos\DCA.ConsoleApp\DCA.DataAccess\obj\Debug\DCA.DataAccess.csproj.CoreCompileInputs.cache
+c:\users\мукушева.corp\source\repos\DCA.ConsoleApp\DCA.DataAccess\bin\Debug\Database.mdf
+c:\users\мукушева.corp\source\repos\DCA.ConsoleApp\DCA.DataAccess\bin\Debug\Database_log.ldf
+c:\users\мукушева.corp\source\repos\DCA.ConsoleApp\DCA.DataAccess\bin\Debug\DCA.DataAccess.dll
+c:\users\мукушева.corp\source\repos\DCA.ConsoleApp\DCA.DataAccess\bin\Debug\DCA.DataAccess.pdb
+c:\users\мукушева.corp\source\repos\DCA.ConsoleApp\DCA.DataAccess\bin\Debug\Dapper.dll
+c:\users\мукушева.corp\source\repos\DCA.ConsoleApp\DCA.DataAccess\bin\Debug\DCA.DataAccess.Abstract.dll
+c:\users\мукушева.corp\source\repos\DCA.ConsoleApp\DCA.DataAccess\bin\Debug\DCA.Models.dll
+c:\users\мукушева.corp\source\repos\DCA.ConsoleApp\DCA.DataAccess\bin\Debug\DCA.DataAccess.Abstract.pdb
+c:\users\мукушева.corp\source\repos\DCA.ConsoleApp\DCA.DataAccess\bin\Debug\DCA.Models.pdb
+c:\users\мукушева.corp\source\repos\DCA.ConsoleApp\DCA.DataAccess\bin\Debug\Dapper.xml
+c:\users\мукушева.corp\source\repos\DCA.ConsoleApp\DCA.DataAccess\obj\Debug\DCA.DataAccess.csproj.CopyComplete
+c:\users\мукушева.corp\source\repos\DCA.ConsoleApp\DCA.DataAccess\obj\Debug\DCA.DataAccess.dll
+c:\users\мукушева.corp\source\repos\DCA.ConsoleApp\DCA.DataAccess\obj\Debug\DCA.DataAccess.pdb

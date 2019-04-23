@@ -1,0 +1,9 @@
+c:\users\мукушева.corp\source\repos\DCA.ConsoleApp\DCA.DataAccess.Abstract\obj\Debug\DCA.DataAccess.Abstract.csproj.CoreCompileInputs.cache
+c:\users\мукушева.corp\source\repos\DCA.ConsoleApp\DCA.DataAccess.Abstract\bin\Debug\DCA.DataAccess.Abstract.dll
+c:\users\мукушева.corp\source\repos\DCA.ConsoleApp\DCA.DataAccess.Abstract\bin\Debug\DCA.DataAccess.Abstract.pdb
+c:\users\мукушева.corp\source\repos\DCA.ConsoleApp\DCA.DataAccess.Abstract\bin\Debug\DCA.Models.dll
+c:\users\мукушева.corp\source\repos\DCA.ConsoleApp\DCA.DataAccess.Abstract\bin\Debug\DCA.Models.pdb
+c:\users\мукушева.corp\source\repos\DCA.ConsoleApp\DCA.DataAccess.Abstract\obj\Debug\DCA.DataAccess.Abstract.csprojAssemblyReference.cache
+c:\users\мукушева.corp\source\repos\DCA.ConsoleApp\DCA.DataAccess.Abstract\obj\Debug\DCA.DataAccess.Abstract.csproj.CopyComplete
+c:\users\мукушева.corp\source\repos\DCA.ConsoleApp\DCA.DataAccess.Abstract\obj\Debug\DCA.DataAccess.Abstract.dll
+c:\users\мукушева.corp\source\repos\DCA.ConsoleApp\DCA.DataAccess.Abstract\obj\Debug\DCA.DataAccess.Abstract.pdb
